@@ -32,7 +32,7 @@ The project covers:
 The analysis helps identify profitable product categories, evaluate geographical performance, monitor business growth, and support data-driven decisions.
 
 
-## 👤 Author
+##  Author
 **Emmanuel the Analyst | SQL | Excel | Python|Power BI**
 
 This project is part of my data analytics portfolio, showcasing practical PostgreSQL skills in database management, business KPI analysis, and analytical reporting.
